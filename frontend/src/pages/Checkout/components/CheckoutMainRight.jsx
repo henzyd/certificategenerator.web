@@ -2,10 +2,7 @@ import CheckoutMainRightComp from "./CheckoutMainRightComp";
 
 function CheckoutMainRight({ type, amount, per, header, text, subText }) {
   return (
-    <div
-      className="col-xs-12 col-12-sm col-md-12 col-lg-4 col-xl-4 col-xxl-4"
-      id="CheckoutMainRight-container"
-    >
+    <div className="" id="CheckoutMainRight-container">
       <div
         className="container-fluid"
         id="CheckoutMainRight-container-sub"
